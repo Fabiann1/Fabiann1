@@ -8,4 +8,4 @@
 - ```📗 Increase my skills in ML ```
 - ```📕 Create structured SaaS application``` 
 ### I am an aspiring ***ML Developer***  with experience in Mobile App Development and Web Development (FullStack).
-### ![image]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white})
+### ![C#]({https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white})
